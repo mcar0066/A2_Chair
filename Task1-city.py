@@ -14,6 +14,7 @@ class City():
     """
     Represents a city.
     """
+    hello
 
     #associates an id to an instance of City
     id_to_cities = dict()
